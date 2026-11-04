@@ -249,3 +249,4 @@
 | pn 28 I 2013, rano | Bez budzika: pobudka 6:15-6:45 (inaczej pozniej) | 60% | 37 | TAK |  |
 | pn 28 I 2013, rano | Poranne pobudzenie seksualne przy przebudzeniu >=2 (owulacja d15, szczyt T, brak rozladowania od 25 I) | 50% | 73 | NIE |  |
 | pn 28 I 2013, rano | NOTA MG | — | — | odrzucone | Rzut „Poranne pobudzenie seksualne…” wykonany omyłkowo — fizjologia nie podlega rzutom (`03` §2a); stan ustalony z historii organizmu (sesja 20 wpis 1, dawniej sesja 19 wpis 481). |
+| pn 28 I 2013, 6:33 CET | Nowe powiadomienie na S4 6:33-6:35 (Klara/Mikolaj przed szkola, Miko, media) | 30% | 94 | NIE |  |
