@@ -1,0 +1,315 @@
+@@ C|2010-05-01|21:10–22:27|WebiX Messenger, English lunch|Wycieczka bez obowiązkowego punktu|2|0|0,0,0|W3 własne plany; W1 dostęp Toni
++ > **ananya_X09** (21:10): Sunday walk? Nothing timed, nothing that needs a bus booking.
++ > **nadine_X09** (21:24): I can do two hours. Then I owe the library several hours of guilt.
++ > **mwu** (21:39): I have a map. This should surprise nobody.
++ > **eline.dijk** (21:55): Check which gate opens on Sundays. Last time we walked around the fence.
+!4 > **ananya_X09** (22:12): Someone suggested inviting Jelska so the gate would open. I would prefer a keyholder.
+! > **nadine_X09** (22:27): She is a student, not a master key.
+HOOK: Powtarzana legenda dostępu daje obraz uprzywilejowania Toni; wycięcie riposty pozwala przedstawić przypuszczenie jako znany zwyczaj kampusu.
+@@ D|2010-05-02|12:00|WebiX, Point Gamma — regulamin|Bilet nie zawiera nazwiska gwiazdy|1|1|0,0,0|W2 regulamin
++ > « Point Gamma: samedi 22 mai. » / Point Gamma w sobotę 22 maja.
++ > « Contrôle à l'entrée. » / Kontrola przy wejściu.
++ > « Réadmission selon le dispositif annoncé. » / Powrót według ogłoszonych zasad.
+! > Występ Binet Musique w głównym obiegu programu; brak osobnej kategorii biletu na Toni.
+! > Program artystyczny nie jest zadaniem dodatkowym ani zaliczeniem przedmiotu.
+HOOK: Zwykły bilet obok nazwiska Toni pozwala opowiadać o monetyzacji szkolnego kultu; skreślenie drugiej uwagi łączy koncert z uprzywilejowaną ścieżką ocen.
+@@ T|2010-05-03|21:06–22:22|WebiX, GénéK X2009 — pytania|Kto odpowie za odmowę|2|1|0,0,0|W2 programy; W3 własne stanowisko
++ > **verdier_X08** (21:06): Debata w środę, pytania pisemne do jutra.
++ > **gaelle_F** (21:19): Odpowiedzi oddane. Poprawiłam tylko godzinę dyżuru.
++ > **augustin.richa** (21:35): Do gazety ten sam format, bez zdjęcia większego o pół strony.
++ > **cdurand** (21:51): Poproszę właściwy podpis. Nie jestem autorką każdego zdjęcia z rocznika.
+!4 > **clement.tourn** (22:07): Odmowa udziału w parachutage nie może wymagać tłumaczenia się przede mną. Jeżeli zostanę GénéK, dotyczy to także ludzi, których nie lubię.
+! > **verdier_X08** (22:22): Wpisane do odpowiedzi. To nie jest obietnica tylko na kampanię.
+HOOK: Konkretny warunek daje podstawę późniejszego sprawdzania Clémenta i porównywania z Toni; STEEPLE może nazwać go przyznaniem, że dawniej odmowa nie była swobodna.
+@@ C|2010-05-04|21:14–22:34|WebiX Messenger, Matrices|Koszt biletu, koszt odmowy|2|0|0,0,0|W3 własny budżet; W2 program
++ > **iris_D** (21:14): Kto odda bilet? Znajoma wraca wcześniej, może odkupić zgodnie z zasadami.
++ > **kaori_I** (21:28): Not mine. I did not buy one this time.
++ > **nadia.rocha** (21:44): I bought mine before calculating the train home. A fine order of operations.
++ > **eline.dijk** (21:59): Ask the organiser before transferring. The name has to match.
+!2 > **abenkirane** (22:19): I am asking for the public cost categories, not for anyone's private receipt or permission to sing.
+!4 > **kaori_I** (22:34): Please keep that exact scope. I do not want another discussion of whether my ticket is a vote for her.
+HOOK: Zmęczenie Kaori daje koszt społeczny centralności Toni; STEEPLE może wyciąć zakres wniosku Asmy i opisać go jako próbę zakazu koncertu.
+@@ D|2010-05-05|14:00|poczta szkolna, Asma — wniosek o koszty|Rachunek publicznego wizerunku|3|1|0,0,0|W4 własny wniosek; W2 program
++ > Asma: “Request concerns published budget categories.” / Wniosek dotyczy publikowanych kategorii budżetu.
++ > “No private financial documents requested.” / Bez żądania prywatnych rachunków.
++ > “Response to the school address.” / Odpowiedź na adres szkolny.
+! > “Please distinguish school support, event income, and privately paid participation when an individual becomes part of the event's publicity.” / Prośba o rozróżnienie środków szkoły, wpływów imprezy i prywatnego udziału w promocji osoby.
+! > “My objection concerns institutional endorsement, not whether Jelska may play music.” / Zastrzeżenie dotyczy patronatu instytucji, nie prawa Toni do grania.
+HOOK: Dokument podważa wygodną opowieść o osobistej próbie uciszenia Toni; daje STEEPLE formalny początek sprawy kosztów i promocji szkoły.
+@@ D|2010-05-06|11:30|WebiX, Point Gamma — bezpieczeństwo|Artysta także stoi w kolejce|1|1|0,0,0|W2 zasady
++ > « Points d'eau sur le plan. » / Punkty wody na planie.
++ > « Objets encombrants au vestiaire. » / Duże przedmioty do szatni.
++ > « Contacts des permanences affichés. » / Kontakty dyżurne wywieszone.
+! > Dostęp za scenę według listy wykonawców; znajomość Toni lub członkini Coquelicots nie wystarcza.
+! > Lista techniczna nie daje wykonawcom uprawnień porządkowych wobec gości.
+HOOK: Zastrzeżenie można przedstawić jako ślad wcześniejszego wykorzystywania znajomości Toni; zwykły regulamin daje plotce urzędowy wygląd.
+@@ C|2010-05-07|21:11–22:39|WebiX Messenger, Matrices — polski podsalon|Kto płaci za refren|4|0|0,0,0|W2 program; W1 interes polityczny
++ > **bzawadzki** (21:11): Nie pożyczę już kalkulatora na noc. Rano znowu go szukałam.
++ > **katarzyna.majew** (21:27): Był u mnie. Oddałam do złej przegródki, przepraszam.
++ > **marta.chmie** (21:44): Mam drugi. Tylko bez zgubienia klapki, bo nie przeżyje kolejnej podróży.
++ > **bzawadzki** (22:00): Dobrze. W tej szkole najwięcej emocji budzi sprzęt bez baterii.
+!2 > **marta.chmie** (22:21): Występ sam w sobie mnie nie obchodzi. Obchodzi mnie szkoła, która z prywatnego talentu robi państwowy dowód doskonałości. Potem pytanie o koszty wygląda jak obrażanie dziewczyny z gitarą. Bardzo wygodna osłona dla instytucji.
+!4 > **katarzyna.majew** (22:39): Pytajmy o dokumenty. Samego patronatu nie przeliczę na gażę, której nie wykazano.
+HOOK: Esej daje gotową polityczną ramę przeciw Toni i instytucji; usunięcie ostrożności Katarzyny zmienia zarzut promocji w nieudokumentowane finansowe oskarżenie.
+@@ D|2010-05-08|08:20|archiwum szkoły, ceremonia rocznicowa|Mundur na konkretny poranek|1|1|0,0,0|W2 rozkaz organizacyjny
++ > « Rassemblement aux horaires indiqués. » / Zbiórka według podanych godzin.
++ > « Vérification des tenues avant départ. » / Sprawdzenie strojów przed wyjściem.
++ > « Cours et services repris ensuite. » / Potem powrót do zajęć i służb.
+! > Strój według przydzielonej części uroczystości; nowe tenues IP nie oznaczają codziennego munduru.
+! > Toni wśród studentów X2007, bez przemówienia i bez osobnej roli organizacyjnej.
+HOOK: Oryginalny plan można wykorzystać jako ramę zdjęcia i podpisać zwykłą obecność Toni jako wyróżnienie; brak funkcji usuwa się z publikacji.
+@@ F|2010-05-08|11:04–11:17|WebiX, Binet Photo — po ceremonii|Wysokość w szeregu|2|0|1,0,1|W3 kadry; W0 stan emocjonalny
+| Kadr | Widoczne | Brak nagości |
+|---|---|---|
++ | 1 | Studenci zbierają okrycia po zakończeniu części oficjalnej. | Tak |
++ | 2 | Dwie osoby sprawdzają plan dalszego dnia. | Tak |
++ | 3 | Odkładane programy przy wejściu. | Tak |
+! | 4 | Toni w szeregu, wyższa od sąsiadów; kamera nie rejestruje rozmowy. | Tak |
+! > **Max_D** (11:17): po niej zawsze wiadomo, gdzie nasz rocznik, nawet bez tabliczki.
+HOOK: Żart i wzrost dają ilustrację rzekomego utożsamienia szkoły z Toni; wycięty kadr sprawia wrażenie wyeksponowania jej przez organizatora.
+@@ C|2010-05-09|21:06–22:23|WebiX Messenger, Les Coquelicots|Zwykła niedziela z terminami|2|0|0,0,0|W3 własne obowiązki
++ > **Sarah** (21:06): Obiad był, garnek wrócił, nikt nie dzwonił po straż. Zapisuję sukces.
++ > **Fiona** (21:20): It was good. The lack of sirens improved the conversation.
++ > **Annika** (21:35): I still owe somebody a fork. I found it in my bag with the notes.
++ > **Clémence** (21:49): Mnie. Nie pytam, jak się tam znalazł, oddaj czysty.
+!5 > **Elif** (22:08): Is Toni allowed to sing for pleasure this year, or will the audience invent another mark?
+! > **toni31_X07** (22:23): jak wystawią mniej, powiem że źle policzyli gitarę. żartuję. chyba.
+HOOK: Autoironiczny żart o podważaniu oceny da się podpisać jako autentyczną niezdolność przyjęcia porażki; prywatny kontekst muzycznej przyjemności zniknie.
+@@ T|2010-05-10|21:12–22:31|WebiX, GénéK — odpowiedzi kandydatów|Zdjęcie z września wraca|2|0|0,0,0|W2 program; W3 własny udział
++ > **augustin.richa** (21:12): Wydanie z odpowiedziami gotowe. Każda odpowiedź ma ten sam limit.
++ > **cdurand** (21:27): Poprawcie mój odsyłacz, otwiera stare Trombi.
++ > **gaelle_F** (21:43): Termin debaty już minął, ale pytania pisemne jeszcze dostępne.
++ > **verdier_X08** (21:59): Głosowanie według ogłoszonej listy, bez pełnomocnictw z salonu.
+!4 > **clement.tourn** (22:16): Byłem uczestnikiem pierwszego parachutage. Zgodziłem się wtedy; to nie daje mi prawa wymagać zgody od następnych.
+! > **gaelle_F** (22:31): Ja też byłam. Właśnie dlatego nie udawajmy, że wszyscy czuli to samo.
+HOOK: Własny udział kandydatów daje ślad do późniejszych sporów o zgodę; STEEPLE może skleić wrześniowe kadry z krytyką Toni mimo jej nieobecności przy tamtym wydarzeniu.
+@@ D|2010-05-11|10:00|WebiX, Point Gamma — kasa|Wspólna cena, różne możliwości|1|1|0,0,0|W2 regulamin
++ > « Retrait des billets cette semaine. » / Odbiór biletów w tym tygodniu.
++ > « Reçus à conserver. » / Zachować pokwitowania.
++ > « Changements selon les modalités annoncées. » / Zmiany według ogłoszonych zasad.
+! > Pomoc dla wolontariuszy w określonym zakresie; występ muzyczny nie oznacza dowolnego dostępu dla znajomych.
+! > Brak osobnego cennika ani dopłaty za obecność Toni.
+HOOK: Ogłoszenie o wyjątkach dla wolontariuszy pozwala sugerować ukryty przywilej otoczenia Toni; drugie zastrzeżenie można całkowicie pominąć.
+@@ C|2010-05-12|21:18–22:36|WebiX Messenger, Binet Musique|Próba, w której ktoś jeszcze gra|2|0|0,0,0|W3 wspólna próba
++ > **Théo_M** (21:18): Bas od początku sam, potem perkusja. Nie wszyscy odliczajcie jednocześnie.
++ > **Thomas_X07** (21:31): Dwa komplety strun w zapasie, oba opisane.
++ > **Mathis_D** (21:47): Kto bierze wodę na scenę? Nie kładźcie butelki na wzmacniaczu.
++ > **Théo_M** (22:02): Obsługa ma plan. Zostawiamy przejście z lewej.
+!5 > **Mathis_D** (22:19): Podpiszcie cały Binet, bo znowu zostanie „Toni i jacyś ludzie z tyłu”.
+! > **toni31_X07** (22:36): podpiszcie. zwłaszcza perkusję, bez niej moje wejście będzie wyglądało jak celowy eksperyment.
+HOOK: Własny żart Toni i obawa muzyków dają materiał o zawłaszczaniu wspólnego występu; podpis zespołowy może zostać usunięty dopiero przez STEEPLE.
+@@ T|2010-05-13|21:05–22:52|WebiX, Plâtal — program Point Gamma|Muzyka jako pozwolenie|3|1|0,0,0|W2 wniosek; W1 jego cel
++ > **Juliette** (21:05): Poprawiona kolejność scen. Godzina wejścia bez zmiany.
++ > **Hugo_L** (21:19): Lista dyżurów osobno. Wykonawcy nie liczą się automatycznie jako obsługa.
++ > **piotr_R** (21:34): Mój dyżur trzeba przesunąć, mam laboratorium.
++ > **Lou_X07** (21:50): Dopisz do arkusza, nie tylko tutaj, będzie zastępstwo.
+! > **abenkirane** (22:08): The budget request does not ask permission for her to sing. It asks which institutional resources accompany the publicity.
+! > **toni31_X07** (22:25): Gram z binetem. Jeżeli przy każdym moim wejściu trzeba najpierw wysłuchać, co znowu ci przeszkadza, to trudno nie usłyszeć w tym próby uciszania.
+!4 > **Mathilde_X07** (22:40): Możesz grać. Ona może pytać o publiczne środki. To nie wymaga wybrania jednej z was.
++ > **Lou_X07** (22:52): Zmiana dyżuru potwierdzona. Trzeba jeszcze odebrać identyfikator.
+HOOK: Toni nazywa krytykę zasobów próbą uciszania, mimo jasnego zastrzeżenia; cytat daje przykład personalizowania kontroli instytucjonalnej.
+@@ C|2010-05-14|22:07–23:26|WebiX Messenger, TONI102|Nikogo nie stać na dowód|4|0|4,0,4|W4 własny rejestr; W0 życie Toni
++ > **Yanis.K** (22:07): Nocny powrót zamówiony. Każdy płaci za swoje miejsce.
++ > **lboulanger** (22:21): Zostawcie mi jedno, wrócę po zmianie.
++ > **tonio_X06** (22:37): Wolontariusze kończą później niż zakładacie. Sprawdźcie plan.
++ > **Titi_06** (22:52): Nie rezerwuję miejsc dla niepotwierdzonych osób.
+! > **Titi_06** (23:10): Pula nadal 800 FRF plus 580 zobowiązań. Nie pojawił się żaden dowód. Nie wysyłać rozmów ani listy poza salon.
+!5 > **valentin_S** (23:26): Jedyny pewny wynik mam w głowie, kiedy wyobrażam sobie jej dłonie na moich ramionach. Nawet nie próbuję wam tego sprzedać.
+HOOK: Tajność rejestru i pieniądze dają w 2013 nacisk na członków; jawne rozróżnienie fantazji i dowodu można usunąć, oskarżając ich o posiadanie intymnych materiałów, których nie ma.
+@@ C|2010-05-15|21:09–22:21|WebiX Messenger, Escrime|Punktacja nie ma zeszłorocznych zasług|2|0|0,0,0|W3 trening; W2 wynik ubiegłej jesieni
++ > **Capucine_E** (21:09): Maski po przeglądzie do odbioru. Jedna ma odklejoną etykietę.
++ > **ravel_X07** (21:22): Zostawiłem ją osobno. Nie brać na trening bez sprawdzenia.
++ > **Thomas_X07** (21:37): Lista wyjazdowa zamknięta. Nie dopisujcie się ołówkiem.
++ > **Capucine_E** (21:52): Zbiórka o siódmej, sprzęt wcześniej. Spóźniona torba nie jest kontuzją.
+!4 > **Thomas_X07** (22:08): Ludzie pytają, czy Toni „odzyska złoto”. Jeszcze nie było tych zawodów.
+!5 > **ravel_X07** (22:21): Niech najpierw dojedzie na własny trening. Medal nie ćwiczy za nią.
+HOOK: Lakoniczne zdanie Ravela można nazwać utratą wiary w Toni; przeniesienie go z codziennej organizacji na MŚ tworzy nieistniejącą ocenę sportową.
+@@ D|2010-05-16|12:20|poczta szkolna, sesja końcowa|Rankingu nie wywiesza się przed egzaminem|1|1|0,0,0|W2 terminy
++ > « Convocations individuelles. » / Wezwania indywidualne.
++ > « Pièce d'identité requise. » / Dokument tożsamości wymagany.
++ > « Copies conservées pour contrôle. » / Prace zachowane do kontroli.
+! > Roczne wyniki 17 VI, amphi de choix 24 VI. To osobne zdarzenia.
+! > Wydarzenie studenckie 19 VI nie nadaje ocen ani tytułów.
+HOOK: Plan przyszłej imprezy obok wyników daje STEEPLE pozór urządzenia triumfu Toni przed sprawdzeniem prac; dokument sam takiego wyniku nie przesądza.
+@@ T|2010-05-17|18:00–19:16|WebiX, GénéK X2009 — wynik|Clément wybrany|1|1|0,0,0|W2 wynik; W4 komisja
++ > **verdier_X08** (18:00): Głosowanie zamknięte. Protokół i uwagi komisji do wglądu na dyżurze.
++ > **gaelle_F** (18:13): Dziękuję za głosy. Zbiorę obiecane uwagi do zasad i przekażę dalej.
++ > **augustin.richa** (18:29): Wynik do IK z tą samą datą; nie według kolejności komentarzy.
++ > **cdurand** (18:43): Moje zdjęcie wreszcie właściwe. To też jakiś wynik.
+! > **verdier_X08** (19:01): Wybrany Clément Tournier. Udziały ważnych głosów po zaokrągleniu: 58%, 21%, 13%, 8% w kolejności Clément, Gaëlle, Augustin, Coline. Przekazanie funkcji osobno.
+!4 > **clement.tourn** (19:16): Dziękuję. Zasady zostają także wtedy, kiedy utrudnią pracę mnie.
+HOOK: Wynik daje STEEPLE punkt do opowieści o odrzuceniu modelu Toni przez nowy rocznik; procenty bez określenia puli można podpisać jako opinię całej szkoły.
+@@ C|2010-05-17|21:18–22:34|WebiX Messenger, Promo X2009|Po wyborach zostaje dyżur|2|0|0,0,0|W3 własne głosy; W1 interpretacje
++ > **gaelle_F** (21:18): Odebrałam materiały z sali. Kto zostawił bluzę, jest w biurze.
++ > **clement.tourn** (21:31): Moja. Pierwszy sprawdzian organizacyjny zdany częściowo.
++ > **augustin.richa** (21:47): Daj mi krótki program pracy do piątku. Bez kolejnego przemówienia.
++ > **cdurand** (22:02): I nowe zdjęcie w normalnym świetle. Nie szukam księcia z cienia.
+!4 > **clement.tourn** (22:19): Już przeczytałem „Toni przegrała”. Nie startowała. Ja mam dostać dyżury, nie jej wynik.
+! > **gaelle_F** (22:34): Nie wszyscy głosowali o niej. Ja nawet na pewno nie.
+HOOK: Zaprzeczenie dokumentuje obieg tezy o przegranej Toni; STEEPLE może zachować wyłącznie przytoczony slogan, odcinając własne stanowisko wybranego.
+@@ C|2010-05-18|21:10–22:28|WebiX Messenger, English lunch|Kepi nie rozwiązuje laboratorium|2|0|0,0,0|W3 własne zajęcia; W2 wybory
++ > **mwu** (21:10): The tutorial moved again. This is now my longest relationship.
++ > **ananya_X09** (21:24): A demanding partner with no fixed address.
++ > **nadine_X09** (21:39): I booked the study room before anyone could move that too.
++ > **eline.dijk** (21:54): Good. I can join after the first hour.
+!4 > **ananya_X09** (22:13): New GénéK, same people asking me what Jelska thinks. Has anyone tried asking what I think about my own course?
+! > **nadine_X09** (22:28): You have been quite clear about the room.
+HOOK: Zmęczenie przypisywaną rolą pośredniczki daje obraz przymusowego orbitowania wokół Toni; zwykła ambiwalencja może zostać wycięta na wrogość.
+@@ D|2010-05-19|11:40|poczta szkolna, Point Gamma — plan końcowy|Nazwiska w zespole|1|1|0,0,0|W4 program
++ > « Répétition technique avant ouverture. » / Próba techniczna przed otwarciem.
++ > « Durées tenues par le régisseur. » / Czas kontroluje realizator.
++ > « Liste de scène distincte de la sécurité. » / Lista sceny oddzielna od zabezpieczenia.
+! > Binet Musique: nowy zestaw „Heroes” oraz „Un autre monde”; Toni — gitara elektryczna i śpiew. Pozostałe partie wykonuje binet.
+! > Wykonanie bez narratora, bez nowej próby Vaneau i bez oceny akademickiej.
+HOOK: Oficjalny program dostarcza wiarygodnego podpisu pod wyciętym zbliżeniem Toni; usunięcie reszty zespołu zamienia wspólny blok w jej solową promocję.
+
+@@ C|2010-05-20|21:15–22:33|WebiX Messenger, Filles de l’X|Powrót bez roli przyzwoitki|2|0|0,2,2|W3 własne plany; W1 cudzy flirt
++ > **gaelle_F** (21:15): Szukam dwóch osób do powrotu po drugiej. Nie chcę sama siedzieć na przystanku.
++ > **Sarah** (21:29): Będę wracała wtedy, potwierdzę po ostatniej zmianie.
++ > **nadia.rocha** (21:44): I can join. I am not carrying anyone's entire costume home.
++ > **eline.dijk** (21:59): Agreed. If one leaves earlier, say so before we split up.
+!4 > **gaelle_F** (22:18): A chłopakowi, który pyta, czy Toni będzie w czymś obcisłym, przekazałam, że może sam założyć obcisłe i się obejrzeć.
+!5 > **Sarah** (22:33): Dobra odpowiedź. I nie rób z siebie jej straży przybocznej, bo się nie wyrobisz ze swoim wieczorem.
+HOOK: Dosadne pytanie o strój Toni daje seksualizujący podpis do galerii; pomoc w powrocie można przedstawić jako organizowanie wokół niej żeńskiej świty.
+@@ D|2010-05-21|10:30|WebiX, Point Gamma — dyżury|Gwiazda nie zastępuje obsługi|1|1|0,0,0|W2 plan
++ > « Prise de poste à l'heure indiquée. » / Dyżur według rozpiski.
++ > « Repas des équipes par roulement. » / Posiłki obsługi na zmiany.
++ > « Objets perdus au point d'accueil. » / Rzeczy znalezione w punkcie obsługi.
+! > Wykonawcy nie są automatycznie wolontariuszami porządkowymi. Nie wysyłać ludzi „do Toni”, jeżeli szukają dyżurnego.
+! > Pytania o rozliczenia do organizatora, nie do Coquelicots jako grupy.
+HOOK: Urzędowe zastrzeżenia podtrzymują opowieść o nieformalnym kierownictwie Toni; pominięcie właściwych adresatów czyni z legendy stan rzeczy.
+@@ C|2010-05-21|21:09–22:24|WebiX Messenger, Binet Musique|Przed występem ktoś musi jeść|2|0|0,0,0|W3 przygotowania
++ > **Théo_M** (21:09): Wejście techniczne według listy, torby za sceną dopiero po odprawie.
++ > **Thomas_X07** (21:23): Podpisałem oba futerały. Nie zostawiajcie cudzej gitary w moim.
++ > **Mathis_D** (21:39): Przyniosę zapasowe kostki. Tym razem nie znikną wszystkie w kieszeniach.
++ > **Théo_M** (21:55): Zjedzcie przed próbą. Po niej nie mamy całej godziny.
+! > **toni31_X07** (22:11): zjem. zanim ktoś wpisze głód do efektów scenicznych.
+!5 > **Mathis_D** (22:24): Już wpisałem „pomruk niski”. Trzeba było odpowiadać szybciej.
+HOOK: Prywatny żart o fizjologii dostarcza uprzedmiotawiającej ramy dla niskiego głosu Toni; bez kontekstu zwykłej próby brzmi jak celowo erotyzowany numer.
+@@ D|2010-05-22|13:00|archiwum organizatora, odprawa Point Gamma|Lista wejść i lista odpowiedzialności|1|1|0,0,0|W4 odprawa
++ > « Postes confirmés. » / Stanowiska potwierdzone.
++ > « Eau et premiers secours indiqués. » / Woda i pierwsza pomoc oznaczone.
++ > « Fin de service signée. » / Koniec dyżuru potwierdzany.
+! > Zespół Binet Musique rozliczany wspólnie z czasu sceny; nazwisko Toni nie tworzy odrębnego bloku.
+! > Wykonawca nie rozstrzyga sporów przy wejściu i nie może zatwierdzać dodatkowych gości.
+HOOK: Wspólny plan obok zbliżenia Toni pozwala udawać osobny przywilej; zastrzeżenie o gościach sugeruje nadużycie, którego odprawa nie stwierdza.
+@@ F|2010-05-22|20:11–20:26|WebiX, Binet Photo — Point Gamma|Osiem osób nie zawsze stoi razem|2|0|1,1,1|W3 obrazy; W0 przyczyny rozdzielenia
+| Kadr | Widoczne | Brak nagości |
+|---|---|---|
++ | 1 | Wolontariusz kieruje gości do drugiego wejścia. | Tak |
++ | 2 | Studenci dzielą ostatnie miejsca przy stoliku. | Tak |
++ | 3 | Fiona i Sarah stoją z napojami, Annika rozmawia poza nimi. | Tak |
+! | 4 | Toni przenosi futerał do miejsca wyznaczonego wykonawcom; dwie osoby odwracają głowy w jej kierunku. | Tak |
+! > **Max_D** (20:26): z takim wejściem nawet futerał ma lepszą publiczność niż my.
+HOOK: Odwrócone głowy i żart pozwalają podać przejście ze sprzętem jako demonstracyjny pokaz; rozproszone przyjaciółki dają fałszywy obraz rozpadu grupy.
+@@ V|2010-05-22|21:34–21:46|archiwum Point Gamma, rejestracja Binet Musique|Wspólny refren, pojedyncze zbliżenie|2|0|1,0,1|W3 zapis występu; W0 motywy
++ > **00:00:** Realizator daje znak wejścia; perkusista liczy tempo.
++ > **00:43:** Kadr obejmuje bas i perkusję, słychać elektryczne gitary.
++ > **02:21:** Publiczność klaszcze nierówno, kamera wraca na całą scenę.
++ > **06:08:** Między „Heroes” i „Un autre monde” krótka przerwa na sygnał realizatora, bez przemówienia i bez narratora.
+! > **07:29:** Toni gra na gitarze elektrycznej i śpiewa niskim głosem; operator robi zbliżenie twarzy i barków, potem wraca do zespołu.
+! > **10:52:** Ukłon wspólny. Nagranie kończy się podczas zejścia, bez oceny prowadzącego zajęcia.
+HOOK: Zbliżenie wyjęte z zespołowego materiału daje solową promocję Toni; montaż z dawnym Vaneau może udawać kolejne akademickie zaliczenie.
+@@ C|2010-05-22|23:05–00:18 następnego dnia|WebiX Messenger, Les Coquelicots — Point Gamma|Jedna gitara, osiem wiadomości|2|0|0,2,2|W3 własny wieczór
++ > **Sarah** (23:05): Kto ma bilet do szatni Anniki? Został na stole.
++ > **Clémence** (23:17): U mnie. Odbiór za pięć minut, potem zmieniam dyżur.
++ > **Fiona** (23:32): I have located water, a chair and no bagpipes. A balanced evening.
++ > **Annika** (23:48): I found the coat. The ticket was in the other pocket all along.
+!5 > **Elif** (00:02): La petite has finished roaring at the school. We may now return her to ordinary conversation.
+! > **toni31_X07** (00:18): najpierw jedzenie. do zwykłej rozmowy też potrzebuję paliwa ^^
+HOOK: Żart Elif można podpisać jako dominowanie szkoły przez Toni; wyrwanie „ryku” z muzycznego kontekstu daje agresywny opis jej zachowania.
+@@ C|2010-05-23|16:08–17:29|WebiX Messenger, Filles de l’X|Po imprezie zostają nogi|2|0|0,2,2|W3 własny powrót; W1 cudze relacje
++ > **gaelle_F** (16:08): Wróciłyśmy razem, buty osobno. Nogi jeszcze składają reklamację.
++ > **nadia.rocha** (16:21): I have someone's cardigan. Please describe it before claiming the warmest one.
++ > **Sarah** (16:37): Granatowy mój. Odbiorę po praniu, nie noś przez cały tydzień.
++ > **eline.dijk** (16:54): I can bring it downstairs. No need for another lost-property campaign.
+!4 > **gaelle_F** (17:14): I nie wróciłam „z ochroną Toni”. Poszłam z Sarah, bo miałyśmy ten sam kierunek. Serio.
+!5 > **Sarah** (17:29): Zostaw. Przynajmniej nie musiałyśmy śpiewać hymnu przy przystanku.
+HOOK: Fałszywa etykieta ochrony daje opowieść o osobistej świcie Toni; ironiczne zdanie Sarah może wyglądać na potwierdzenie rytuałów lojalności.
+@@ F|2010-05-23|18:20–18:33|WebiX, Binet Photo — sprzątanie|Po głównym programie|2|0|0,0,0|W3 obraz; W0 wcześniejszy udział
+| Kadr | Widoczne | Brak nagości |
+|---|---|---|
++ | 1 | Zwijany dywan ochronny przy wejściu. | Tak |
++ | 2 | Worki po kubkach przenoszone do odbioru. | Tak |
++ | 3 | Lista rzeczy znalezionych obok pojedynczego buta. | Tak |
+! | 4 | Pusty mikrofon, na pulpicie program z nazwiskiem Toni; jej samej nie ma w ujęciu. | Tak |
+! > **Mathis_D** (18:33): bohaterowie poszli spać, statyści znaleźli mop. ja dziś gram statystę.
+HOOK: Żart o mopie daje oskarżenie, że Toni zostawiła pracę innym; zdjęcie nie poświadcza ani jej całego dyżuru, ani obowiązku, którego nie wykonała.
+@@ D|2010-05-24|14:40|archiwum organizatora, ograniczony wykaz wejść|Kto mógł wejść za scenę|4|1|0,0,0|W4 organizatorzy; W0 relacje osobiste
++ > « Accès techniques clos. » / Dostęp techniczny zamknięty.
++ > « Badges rendus au responsable. » / Identyfikatory oddane odpowiedzialnemu.
++ > « Contacts privés exclus du relevé. » / Bez prywatnych kontaktów w zestawieniu.
+! > Wiersz Binet Musique łączy Toni i pozostałych muzyków ze szkolnymi osobami potwierdzającymi wejścia. Nie ma dopisanego prawa zapraszania znajomych.
+! > Kontrola odnotowuje brak dwóch zwróconych identyfikatorów z całej imprezy, bez przypisania ich Toni lub jej grupie.
+HOOK: Wewnętrzny wykaz daje mapę ludzi do nacisku i możliwość przypisania brakujących identyfikatorów otoczeniu Toni; połączenie nie wynika z dokumentu.
+@@ C|2010-05-25|21:09–22:24|WebiX Messenger, Escrime|Muzyka nie zastępuje porannego treningu|2|0|0,0,0|W3 własne spotkanie
++ > **Capucine_E** (21:09): Rano krótsza sala, zaczynamy punktualnie.
++ > **ravel_X07** (21:22): Sprzęt przygotowany. Potem mam egzamin, nie zostaję.
++ > **Thomas_X07** (21:38): Dowiozę torbę wcześniej. Nie mam miejsca w bagażniku po południu.
++ > **Capucine_E** (21:53): Zostaw w środku, nie przy wejściu. Wczoraj zastawili drzwi.
+!5 > **ravel_X07** (22:11): Toni po występie nadal ma własny plan. Nie dopisujcie jej urlopu od treningu.
+!4 > **Thomas_X07** (22:24): Nie dopiszę też cudownej regeneracji. Nie prowadzę jej kalendarza.
+HOOK: Zdanie Ravela daje ramę rzekomej nadludzkiej wydolności Toni; druga wypowiedź może zostać pokazana jako skrywana wątpliwość co do jej fizjologii.
+@@ T|2010-05-26|21:07–22:39|WebiX, Plâtal — po Point Gamma|Udana impreza nie jest odpowiedzią|3|1|0,0,0|W2 program i wniosek; W1 intencje
++ > **Juliette** (21:07): Galeria po korekcie, drugi film doda się jutro.
++ > **Lou_X07** (21:21): Rzeczy znalezione do piątku. Potem odbiór po umówieniu.
++ > **piotr_R** (21:36): Zgłosiłem identyfikator, który został w torbie. Oddam rano.
++ > **Hugo_L** (21:52): Oznaczę jako zgłoszony, nie jako już zwrócony.
+!2 > **abenkirane** (22:10): A successful concert does not answer who funds publicity or how criticism is handled. Applause cannot close that file.
+! > **toni31_X07** (22:24): Nikt nie zamykał teczki oklaskami. Ale ty potrafisz z każdej udanej rzeczy zrobić kolejny załącznik do aktu oskarżenia.
+!4 > **Mathilde_X07** (22:39): Wniosek był przed koncertem. Udany koncert nie jest jego sprostowaniem.
++ > **Hugo_L** (22:51): Film później. Najpierw opis i autor, bo znowu przysłano sam plik bez niczego.
+HOOK: Toni zarzuca Asmie cel oskarżycielski mimo daty wcześniejszego wniosku; zapis daje powtarzalny wzór obrony przez personalny kontratak.
+@@ D|2010-05-27|15:10|poczta szkolna, DVE — odpowiedź o kosztach|Dokument bez prywatnej garderoby|3|2|0,0,0|W4 DVE; W2 organizacja
++ > « Réception des observations confirmée. » / Uwagi przyjęte.
++ > « Comptes de l'événement encore en contrôle. » / Rachunki imprezy nadal sprawdzane.
++ > « Réponse par catégories, non par spectateur. » / Odpowiedź według kategorii, nie według widza.
+! > DVE przekazuje zakres szkolnego wsparcia organizacyjnego; brak dowodu osobnego honorarium Toni nie jest rozstrzygnięciem pytania o promocję jej wizerunku.
+! > Powtórnie przypomina stronom, że krytyka publicznego kosztu nie jest wnioskiem o zakaz występu. Część zarzutów indywidualnych nadal wymaga osobnej odpowiedzi.
+HOOK: Urzędowe rozdzielenie obala łatwą obronę przez „brak gaży”; STEEPLE zyskuje dokument, że pytanie o instytucjonalną promocję pozostawało zasadne po koncercie.
+@@ T|2010-05-28|20:52–22:07|WebiX, Cours — przed sesją|Pochwała nie dopisuje punktów|1|0|0,0,0|W3 własna praca; W2 harmonogram
++ > **Annika** (20:52): Last practice sheet is online. It has the corrected signs this time.
++ > **Thomas_X07** (21:06): Ustne po pisemnych, sprawdźcie wezwania indywidualne.
++ > **nadine_X09** (21:21): I booked the room for ninety minutes. Then another group comes in.
++ > **Clémence** (21:37): Zostawcie im tablicę czystą. Nie nasz spadek na całe lato.
+! > **toni31_X07** (21:54): za gitarę punktów nie dopisują. sprawdziłam plan sesji. niestety :v
+!4 > **Thomas_X07** (22:07): Ani nie odejmują. Za dwa tygodnie i tak oddajesz własną pracę.
+HOOK: Żart o punktach staje się domniemaniem oczekiwania specjalnej nagrody; rzeczywista oddzielność koncertu i egzaminów zostaje usunięta.
+@@ C|2010-05-28|22:31–23:43|WebiX Messenger, Les Coquelicots|Rachunek ostatniego czerwca|2|0|0,0,0|W3 własne przygotowania; W0 wyniki
++ > **Clémence** (22:31): Na czerwiec nie zamawiajcie nic na osiem osób bez potwierdzenia terminów.
++ > **Sarah** (22:44): Mam trzy możliwe wieczory. Jeden z nich pewnie zaraz zniknie.
++ > **Fiona** (22:59): Mine disappear faster if somebody says “just a small dinner”.
++ > **Elif** (23:13): We could call it a large dinner and watch it become administratively possible.
+!5 > **Juliette** (23:29): Proszę bez tytułu „ostatni triumf Toni”, zanim poznamy wyniki. To także nasz ostatni wspólny miesiąc zajęć.
+!5 > **Annika** (23:43): I would like to be in my own ending, yes.
+HOOK: Zdanie Anniki daje bolesny zarzut przysłaniania przyjaciółek przez Toni; prośbę o miejsce dla wszystkich można przedstawić jako konflikt w grupie.
+@@ C|2010-05-29|21:14–22:38|WebiX Messenger, X2007 — les mecs|Koszt miejsca pierwszego|4|0|0,0,0|W2 droga formacji; W1 przyszły wybór Toni
++ > **Edouard_R** (21:14): Kto ma broszurę z prezentacji? Zostawiłem swoją w sali.
++ > **Thomas_X07** (21:29): Wersja do druku w sekretariacie. Nie wszystkie terminy są na slajdach.
++ > **Cyril_V** (21:46): Wysłałem listę pytań. Warto spytać o praktyki, nie tylko nazwę szkoły.
++ > **Mathis_D** (22:01): I o mieszkanie. Nazwa nie jest dachem.
+!3 > **ArnaudDC** (22:21): Gdy ktoś ma do wyboru wszystko, jego gest będzie potem opowieścią o wolności. Ktoś inny zapłacił za miejsce, które umożliwiło ten gest. Nie zgadzam się na świętowanie tylko pierwszej połowy.
+!4 > **Cyril_V** (22:38): Nadal nie wiemy, co Toni powie na amphi. Nie pisz jej już teraz mowy.
+HOOK: Prywatny argument Arnauda daje polityczny tekst przeciw przyszłej odmowie Mines i nacisk na jego własne ambicje; w maju pozostaje spekulacją, nie wiedzą o decyzji Toni.
+@@ D|2010-05-30|12:30|poczta szkolna, kalendarz czerwca|Trzy różne daty|1|1|0,0,0|W2 harmonogram
++ > « Derniers examens selon les convocations. » / Ostatnie egzaminy według wezwań.
++ > « Consultations après les résultats. » / Wgląd po wynikach.
++ > « Départs à signaler au service. » / Wyjazdy zgłosić administracji.
+! > Wyniki 17 VI, wydarzenie studenckie 19 VI, amphi de choix 24 VI.
+! > Nazwa imprezy 19 VI do potwierdzenia po ogłoszeniu wyników; plan miejsca nie ustanawia majora.
+HOOK: Wstępna rezerwacja daje STEEPLE pozór przygotowanego przed wynikami triumfu Toni; brak ustalonego tytułu zostaje pominięty.
+@@ T|2010-05-30|21:12–22:27|WebiX, Vie du Kès — organizacja|Nowy GénéK też potrzebuje sali|2|1|0,0,0|W3 własna organizacja; W2 wybór
++ > **clement.tourn** (21:12): Potrzebuję pół godziny na rozmowę o przekazaniu. Nie środkowego dnia sesji.
++ > **verdier_X08** (21:26): Dwie propozycje terminu wysłałem. Kepi zostaje u mnie do przekazania funkcji.
++ > **gaelle_F** (21:41): W planie nie zostawiajcie pola „jeszcze ustalimy”, to potem wisi całe lato.
++ > **Lou_X07** (21:57): Sala po osiemnastej wolna w poniedziałek. Potwierdźcie przed jutrem.
+!4 > **clement.tourn** (22:13): Toni nie musi tego zatwierdzać. To moje przekazanie od Verdiera, nie konsultacja z każdym poprzednim rocznikiem.
+!5 > **verdier_X08** (22:27): Potwierdzam. Nie mnożymy podpisów dla uspokojenia plotki.
+HOOK: Stanowcze rozdzielenie sukcesji daje obraz odcinania się od Toni; STEEPLE może dopisać konflikt pokoleniowy do zwykłego przekazania funkcji.
+@@ D|2010-05-31|16:00|archiwum szkoły, zamknięcie maja|Występ zamknięty, rachunki otwarte|1|2|0,0,0|W4 dokumentacja
++ > « Programme artistique exécuté. » / Program artystyczny wykonany.
++ > « Comptes en vérification. » / Rachunki w kontroli.
++ > « Élections enregistrées. » / Wybory odnotowane.
+! > Clément wybrany GénéK X2009, Verdier do formalnego przekazania. Toni bez roli w selekcji i przekazaniu.
+! > Nowy repertuar Binet Musique bez oceny. Rok akademicki jeszcze trwa; wynik roczny i tytuł majora nie zostały ogłoszone.
+HOOK: Gotowy program i niezamknięte sprawy dają wrogą ramę szkoły celebrującej Toni, zanim rozliczy jej instytucjonalne otoczenie.

@@ -1,0 +1,147 @@
+{
+  "total": 240,
+  "bt": [
+    72,
+    120,
+    24,
+    24
+  ],
+  "ranges": {
+    "C": [
+      297,
+      394
+    ],
+    "D": [
+      222,
+      297
+    ],
+    "T": [
+      189,
+      233
+    ],
+    "V": [
+      98,
+      105
+    ],
+    "F": [
+      89,
+      101
+    ]
+  },
+  "toni_total": 48,
+  "toni_new": 33,
+  "toni_author": 15,
+  "preserved_year2": true,
+  "preserved_old_year3": true,
+  "duplicate_headings": {
+    "D68": 2
+  },
+  "months": [
+    {
+      "month": 1,
+      "section": "3.5",
+      "count": 30,
+      "ranges": "C297–C309; D222–D230; T189–T194; V98–V98; F89–F89",
+      "bt": {
+        "1": 9,
+        "2": 15,
+        "3": 3,
+        "4": 3
+      },
+      "minimum_noise": 0.6
+    },
+    {
+      "month": 2,
+      "section": "3.6",
+      "count": 30,
+      "ranges": "C310–C322; D231–D240; T195–T199; V99–V99; F90–F90",
+      "bt": {
+        "1": 9,
+        "2": 15,
+        "3": 3,
+        "4": 3
+      },
+      "minimum_noise": 0.6
+    },
+    {
+      "month": 3,
+      "section": "3.7",
+      "count": 40,
+      "ranges": "C323–C337; D241–D253; T200–T207; V100–V100; F91–F93",
+      "bt": {
+        "1": 12,
+        "2": 20,
+        "3": 4,
+        "4": 4
+      },
+      "minimum_noise": 0.6
+    },
+    {
+      "month": 4,
+      "section": "3.8",
+      "count": 30,
+      "ranges": "C338–C350; D254–D262; T208–T213; V101–V101; F94–F94",
+      "bt": {
+        "1": 9,
+        "2": 15,
+        "3": 3,
+        "4": 3
+      },
+      "minimum_noise": 0.6
+    },
+    {
+      "month": 5,
+      "section": "3.9",
+      "count": 40,
+      "ranges": "C351–C366; D263–D275; T214–T220; V102–V102; F95–F97",
+      "bt": {
+        "1": 12,
+        "2": 20,
+        "3": 4,
+        "4": 4
+      },
+      "minimum_noise": 0.6
+    },
+    {
+      "month": 6,
+      "section": "3.10",
+      "count": 40,
+      "ranges": "C367–C381; D276–D288; T221–T228; V103–V104; F98–F99",
+      "bt": {
+        "1": 12,
+        "2": 20,
+        "3": 4,
+        "4": 4
+      },
+      "minimum_noise": 0.6
+    },
+    {
+      "month": 7,
+      "section": "3.11",
+      "count": 30,
+      "ranges": "C382–C394; D289–D297; T229–T233; V105–V105; F100–F101",
+      "bt": {
+        "1": 9,
+        "2": 15,
+        "3": 3,
+        "4": 3
+      },
+      "minimum_noise": 0.6
+    }
+  ],
+  "sha256": {
+    "D:\\Archiwum\\symsejmo\\All Things Jelska\\New Jelska\\mg-wyciek-forum-x2007-rok-2.md": "85d86c3f1266e77b448eeca6d2558f873f7d70f409bcfff784b566c00210013f",
+    "D:\\Archiwum\\symsejmo\\All Things Jelska\\New Jelska\\mg-wyciek-forum-x2007-rok-3.md": "afd97039f22a9d5216e97a76e609f7a583f212fb74167e2e5bf9b92e48f4741b"
+  },
+  "validation": [
+    "240 headings/metrics/hooks",
+    "IDs continuous and unique",
+    "BT exact per month",
+    "visible-unit noise >=60%",
+    "LF UTF-8",
+    "old year3 prefix unchanged",
+    "year2 checksum unchanged",
+    "fixed quotations present",
+    "school/WebiX sources only"
+  ]
+}

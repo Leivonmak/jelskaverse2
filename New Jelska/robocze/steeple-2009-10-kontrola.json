@@ -1,0 +1,82 @@
+{
+  "month": 10,
+  "section": "3.2",
+  "count": 30,
+  "ids": [
+    "D196",
+    "T165",
+    "C266",
+    "T166",
+    "C267",
+    "D197",
+    "F83",
+    "C268",
+    "T167",
+    "D198",
+    "C269",
+    "T168",
+    "D199",
+    "C270",
+    "T169",
+    "D200",
+    "C271",
+    "T170",
+    "C272",
+    "D201",
+    "F84",
+    "C273",
+    "T171",
+    "D202",
+    "T172",
+    "T173",
+    "C274",
+    "D203",
+    "C275",
+    "D204"
+  ],
+  "bt": {
+    "1": 9,
+    "2": 15,
+    "3": 3,
+    "4": 3
+  },
+  "backup": "D:\\Archiwum\\symsejmo\\All Things Jelska\\New Jelska\\archiwum\\kopie-steeple-2009\\mg-wyciek-forum-x2007-rok-3-20261022-214537-420166.md",
+  "previous_sha256": "18f5dd658458edd51b9ae78e894c79e8bd69573ef447103c9277a497ddd0abf8",
+  "source_sha256": "b9f28780e041b20fc3bfd1bf347cbd7696591b0677cb71f1ffaf2d15f1514422",
+  "toni": [
+    [
+      "T166",
+      "> **toni31_X07** (19:21): Ćwierćfinał. Przegrałam 13:15. Bez wymówek, była lepsza."
+    ],
+    [
+      "C267",
+      "> **toni31_X07** (21:34): Przy 13:13 przyspieszyłam, zamiast utrzymać dystans. Dwa razy oddałam jej linię. To jest do poprawienia, nie do opowiadania o pechu."
+    ],
+    [
+      "C267",
+      "> **toni31_X07** (21:44): za rok wracam po złoto"
+    ],
+    [
+      "T167",
+      "> **toni31_X07** (20:14): dopisałam jednostkę na marginesie. reszta się zgadza, nie liczcie od nowa."
+    ],
+    [
+      "C270",
+      "> **toni31_X07** (21:55): bo szafa przegrała w kwalifikacjach. ja dopiero w ćwierćfinale :v"
+    ],
+    [
+      "C273",
+      "> **toni31_X07** (21:35): za dwie linijki? nie. możesz rozumieć zadanie i nadal mnie nie lubić."
+    ],
+    [
+      "T171",
+      "> **toni31_X07** (20:42): Nie musisz mnie lubić. Ale od świeckiej uczelni nie dostaniesz gwarancji, że nikt nie skrytykuje twojej religii."
+    ],
+    [
+      "C275",
+      "> **toni31_X07** (21:50): no to dopisz datę. treningu nie wygram cytatem."
+    ]
+  ],
+  "final_revision": "Kontrola źródeł, metryk obrazu, rytmu rozmów i notatki Richarda; tylko własne dodatki.",
+  "final_sha256": "0b59bdc23d79b2dce2e027725e2f822515f3af90b7ba9270d1b98868da6d249b"
+}

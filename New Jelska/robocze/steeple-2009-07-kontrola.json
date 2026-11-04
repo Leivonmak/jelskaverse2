@@ -1,0 +1,60 @@
+{
+  "month": 7,
+  "section": "3.30",
+  "count": 20,
+  "ids": [
+    "D175",
+    "C241",
+    "T147",
+    "D176",
+    "C242",
+    "F79",
+    "C243",
+    "D177",
+    "C244",
+    "D178",
+    "V93",
+    "F80",
+    "T148",
+    "C245",
+    "D179",
+    "T149",
+    "C246",
+    "T150",
+    "C247",
+    "D180"
+  ],
+  "bt": {
+    "1": 6,
+    "2": 10,
+    "3": 2,
+    "4": 2
+  },
+  "backup": "D:\\Archiwum\\symsejmo\\All Things Jelska\\New Jelska\\archiwum\\kopie-steeple-2009\\mg-wyciek-forum-x2007-rok-2-20261022-213429-995578.md",
+  "previous_sha256": "07a64c445dabf7ea880aa27e4e6675fe208814f95110202c9649d65b01092171",
+  "source_sha256": "fbb159e4d8a98f782bfb796171b952049cfd0746ca7a8d5667779d4c650a6e9a",
+  "toni": [
+    [
+      "C241",
+      "> **toni31_X07** (21:28): Lozanna. a potem Paryż na próbę. tak, sprawdziłam dworzec ^^"
+    ],
+    [
+      "C243",
+      "> **toni31_X07** (21:00): nie wysyłajcie luzem. przyjedzie banan, nie szpada."
+    ],
+    [
+      "C244",
+      "> **toni31_X07** (21:47): wiem. bardzo dyskretne pismo wielkości mojej głowy."
+    ],
+    [
+      "V93",
+      "> **06:24, Toni [P: subagent, do kontroli MG]:** „Pół kroku. Nie cały, nie mamy drugich Champs-Élysées.”"
+    ],
+    [
+      "T148",
+      "> **toni31_X07** (21:01): raczej wzrostu. dwudziestka jest mniejsza."
+    ]
+  ],
+  "final_revision": "Kontrola źródeł, metryk obrazu, rytmu rozmów i notatki Richarda; tylko własne dodatki.",
+  "final_sha256": "85d86c3f1266e77b448eeca6d2558f873f7d70f409bcfff784b566c00210013f"
+}
